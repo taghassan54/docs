@@ -13,6 +13,12 @@ The leading open-source headless CMS.
 https://github.com/strapi/strapi
 ```
 
+## Directus [Directus](https://directus.io)
+Combining the utility of a Headless CMS with the power of a Backend-as-a-Service, Directus handles APIs, Auth, Admin, and more so you can focus on building amazing apps and websites. 
+```sh
+https://github.com/directus/directus
+```
+
 ## docker [docker](https://www.docker.com/)
 Accelerate how you build, share, and run applications
 Docker helps developers build, share, run, and verify applications anywhere — without tedious environment configuration or management.
