@@ -26,7 +26,7 @@ Docker helps developers build, share, run, and verify applications anywhere — 
   https://www.docker.com/
 ```
 
-## [Ant Design](https://ant.design/)
+## Ant Design [Ant Design](https://ant.design/)
 
 Help designers/developers building beautiful products more flexible and working with happiness
 
