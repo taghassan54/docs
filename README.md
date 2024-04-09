@@ -32,3 +32,8 @@ Help designers/developers building beautiful products more flexible and working 
 
 
 ## React Admin Template [emilus](https://emilus.themenate.net/app/docs/documentation/introduction)
+
+Emilus - A developer friendly & highly scalable admin dashboard template built with React & top notch technologies stack. It offers a clean code base and detailed documentation which allow you to develop your web application faster and cost effectively. Emilus can be used to build any modern web application including a SaaS, admin panels, CRM, CMS, e-commerce panel, etc.
+
+NOTE: This is a React based template, it required at least an entry-level of Javascript(ES6), React, Redux, LESS to use this template.
+
