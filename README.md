@@ -37,3 +37,5 @@ Emilus - A developer friendly & highly scalable admin dashboard template built w
 
 NOTE: This is a React based template, it required at least an entry-level of Javascript(ES6), React, Redux, LESS to use this template.
 
+# Tips for preventing common review issues [apple developer](https://developer.apple.com/videos/play/tech-talks/10885/)
+
