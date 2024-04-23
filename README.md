@@ -39,3 +39,7 @@ NOTE: This is a React based template, it required at least an entry-level of Jav
 
 # Tips for preventing common review issues [apple developer](https://developer.apple.com/videos/play/tech-talks/10885/)
 
+# libphonenumber-js (libphonenumber-js)[https://gitlab.com/catamphetamine/libphonenumber-js]
+A simpler and smaller rewrite of Google Android's libphonenumber library in javascript.
+
+
